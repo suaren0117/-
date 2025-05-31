@@ -41,7 +41,7 @@ li{
 
 #header{
   height:100vh;
-  background-image: url(https://i2.wp.com/media.thisisgallery.com/wp-content/uploads/2021/11/01-1-1.jpeg?resize=1536%2C922&ssl=1);
+  background-image: url(img/mainvisual.jpg);
   background-size:cover;
   background-position:center-top;
   background-repeat: no-repeat;
@@ -86,7 +86,7 @@ li{
 }
 #fashion{
   height:520px ;
-  background-image:url(https://th.bing.com/th/id/OIP.vUFkH1gx6y_W2pZ1CB3RDAHaDa?rs=1&pid=ImgDetMain);
+  background-image:url(img/magazine-archive.jpg);
   background-size:cover;
   background-position:center top;
   background-repeat:no-repeat;
